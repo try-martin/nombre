@@ -1,2 +1,2 @@
 # nombre
-repo de prueba
+Este repositorio es de prueba
